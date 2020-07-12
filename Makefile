@@ -1,2 +1,2 @@
 test:
-	pytest -xv namecombiner.py
+	pytest -xv namecombiner.py test.py
